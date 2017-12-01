@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GoogleMapsDrawRoute.iml" filepath="$PROJECT_DIR$/GoogleMapsDrawRoute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidMapDirections.iml" filepath="$PROJECT_DIR$/AndroidMapDirections.iml" />
+      <module fileurl="file://F:\2.AndroidWorkspace\AndroidMapDirections\GoogleMapsDrawRoute.iml" filepath="F:\2.AndroidWorkspace\AndroidMapDirections\GoogleMapsDrawRoute.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\2.AndroidWorkspace\AndroidMapDirections\app\app.iml" filepath="F:\2.AndroidWorkspace\AndroidMapDirections\app\app.iml" />
     </modules>
   </component>
 </project>
